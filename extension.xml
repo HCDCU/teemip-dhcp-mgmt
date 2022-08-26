@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>teemip-dhcp-mgmt</extension_code>
+	<company>Combodo SARL</company>
+	<author><![CDATA[Christophe Naud]]></author>
+	<label><![CDATA[DHCP management]]></label>
+	<description><![CDATA[TeemIp extension that define and register the DHCP options that are used within a DHCP infrastructure]]></description>
+	<version>3.0.0</version>
+	<modules type="array">
+		<module>
+			<id>teemip-dhcp-mgmt</id>
+			<version>tags/3.0.0</version>
+		</module>
+	</modules>
+	<release_date>2022-01-05</release_date>
+	<version_description><![CDATA[]]></version_description>
+	<itop_version_min>2.7.0</itop_version_min>
+	<status></status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>
